@@ -1,6 +1,6 @@
 # ChatApp 백엔드 API
 
-실시간 채팅 애플리케이션을 위한 Express.js 기반 백엔드 API 입니다.
+실시간 채팅 애플리케이션을 위한 Express.js 기반 백엔드 API
 
 ## 기술 스택
 

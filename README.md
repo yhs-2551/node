@@ -1,10 +1,10 @@
 # Node.js 백엔드 프로젝트 모음
 
-이 저장소는 Node.js 기반의 다양한 백엔드 프로젝트를 포함 합니다.
+이 저장소는 Node.js 기반의 다양한 백엔드 프로젝트를 포함합니다.
 
 ## 프로젝트 목록
 
-- **chatapp**
+- **chatapp 실습(클론코딩) 프로젝트**
   - 기술 스택: Node.js, Express, Socket.io, MongoDB, Cloudinary(이미지 저장소)
   - 설명: 실시간 채팅 애플리케이션을 위한 백엔드 API 시스템
   - 기능:
